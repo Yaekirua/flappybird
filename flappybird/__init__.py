@@ -1,0 +1,1 @@
+# flappybird/__init__.py
