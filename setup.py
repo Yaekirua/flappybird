@@ -13,7 +13,7 @@ setup(
     },
     description='A Flappy Bird game implemented in Pygame.',
     author='Hizal',
-    author_email='your.email@example.com',
+    author_email='hizalhazreenhaziq@gmail.com',
     url='https://github.com/Yaekirua/flappybird',  # Change this to your repository URL
     classifiers=[
         'Programming Language :: Python :: 3',
